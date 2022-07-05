@@ -123,6 +123,15 @@ a {
     z-index: 22;
 }
 
+.logo {
+    background-image: url(https://raw.githubusercontent.com/hexschool/HTMLHWSource/master/singlePage/logo.png);
+    width: 224px;
+    height: 50px;
+    text-indent: 101%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
 .navbar {
     display: flex;
     align-items: center;
