@@ -149,6 +149,7 @@ a {
     text-align: center;
     display: block;
     background: #fff;
+    border-bottom: 5px solid transparent;
 }
 
 .navbar a:hover {
