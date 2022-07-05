@@ -125,6 +125,7 @@ a {
 
 .logo a {
     background-image: url(https://raw.githubusercontent.com/hexschool/HTMLHWSource/master/singlePage/logo.png);
+    display: block;
     width: 224px;
     height: 50px;
     text-indent: 101%;
